@@ -1,6 +1,5 @@
 # Number-Plate Recognition
-### Iranian number-plate Recognition
-### Dataset and trained weights can be accessed from [Release](https://github.com/aboutsajjad/anpr/releases).
+Iranian number-plate Recognition.<br />Dataset and trained weights can be accessed from [Release](https://github.com/aboutsajjad/anpr/releases).
 
 ![Damaged Licence Plate](https://github.com/aboutsajjad/anpr/blob/master/samples/0051b.jpg?raw=true "Damaged Licence Plate")
 
